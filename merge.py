@@ -6,8 +6,8 @@ import sys
 file1.txt
 ---------------
 foo1 3 4
-foo2 5 8
 foo3 8 9
+foo2 5 8
 
 file2.txt
 ---------------
